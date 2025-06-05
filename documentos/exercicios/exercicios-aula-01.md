@@ -1,0 +1,75 @@
+# 🧠 Exercícios – Aula 01: Visão Geral da Cibersegurança
+
+> Esta atividade complementa os estudos da Aula 01 do curso de Introdução à Cibersegurança. Os exercícios reforçam os conceitos abordados, promovem pesquisa e aplicação prática.
+
+
+---
+
+## 📘 Aula 01 – Visão Geral da Cibersegurança
+
+### 📝 Exercícios sugeridos
+
+- 📰 **Pesquise e liste** 3 notícias recentes sobre ataques cibernéticos no Brasil ou no mundo  
+- 🎣 **Identifique e explique** um ataque de phishing comum que você já viu ou ouviu falar  
+- 🔐 **Crie uma senha forte** e utilize um gerenciador de senhas confiável para armazená-la´
+
+---
+
+## ✅ Exercício 1: Notícias Recentes sobre Ciberataques
+
+🔍 **Tarefa:** 
+- 📰 **Pesquise e liste** 3 notícias recentes sobre ataques cibernéticos no Brasil ou no mundo 
+
+---
+
+# 🛡️ Notícias Reais sobre Ciberataques (2024–2025)
+
+Abaixo estão listadas 3 notícias recentes com impacto relevante no Brasil e no mundo, com fontes confiáveis.
+
+---
+
+## 1. 📅 Maio de 2025 – Ciberataque paralisa sistema judiciário da República Dominicana
+
+🔍 **Resumo:**  
+Um ataque de ransomware interrompeu os sistemas judiciais dominicanos, afetando o portal de serviços, processos eletrônicos e prazos legais.
+
+💥 **Impacto:**  
+- Suspensão de processos judiciais e audiências  
+- Paralisação de serviços online do poder judiciário  
+- Insegurança jurídica temporária e impacto na confiança institucional
+
+🔗 **Fonte:** [Security Affairs](https://securityaffairs.com/161644/cyber-crime/dominican-republic-ransomware-attack.html)
+
+---
+
+## 2. 📅 Abril de 2024 – Hospital francês paralisa atendimento após ataque de ransomware
+
+🔍 **Resumo:**  
+O Centre Hospitalier D’Agen-Nérac foi alvo de um ransomware que comprometeu todos os seus sistemas administrativos e hospitalares.
+
+💥 **Impacto:**  
+- Cirurgias canceladas e pacientes redirecionados para outros hospitais  
+- Registros médicos digitais inacessíveis  
+- Atendimento emergencial comprometido  
+- Risco direto à vida de pacientes críticos
+
+🔗 **Fonte:** [BleepingComputer](https://www.bleepingcomputer.com/news/security/french-hospital-diverts-patients-cancels-surgeries-after-ransomware-attack/)
+
+---
+
+## 3. 📅 Março de 2024 – Vazamento de dados do iFood expõe milhões de clientes e entregadores
+
+🔍 **Resumo:**  
+Um vazamento em banco de dados do iFood expôs dados pessoais de usuários, entregadores e restaurantes no Brasil.
+
+💥 **Impacto:**  
+- Exposição de CPFs, endereços e localização em tempo real  
+- Risco de golpes, engenharia social e phishing direcionado  
+- Comprometimento da reputação da empresa  
+- Potencial infração à LGPD, com risco de sanções da ANPD
+
+🔗 **Fonte:** [TecMundo](https://www.tecmundo.com.br/seguranca/270241-vazamento-ifood-expoe-dados-entregadores-clientes.htm)
+
+---
+
+---
