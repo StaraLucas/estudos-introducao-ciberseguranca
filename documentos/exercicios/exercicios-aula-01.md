@@ -8,7 +8,14 @@
 
 - 📰 **Pesquise e liste** 3 notícias recentes sobre ataques cibernéticos no Brasil ou no mundo  
 - 🎣 **Identifique e explique** um ataque de phishing comum que você já viu ou ouviu falar  
-- 🔐 **Crie uma senha forte** e utilize um gerenciador de senhas confiável para armazená-la´
+- 🔐 **Crie uma senha forte** e utilize um gerenciador de senhas confiável para armazená-la
+
+## 📚 Índice
+
+- [✅ Exercício 1: Notícias Recentes sobre Ciberataques](#-exercício-1-notícias-recentes-sobre-ciberataques)
+- [🎣 Exercício 2: Exemplo de Phishing Comum](#-exercício-2-ataque-de-phishing-comum)
+- [🔐 Exercício 3: Utilizar gerenciador de senhas confiável](#-exercício-3-utilizar-gerenciador-de-senhas-confiável)
+
 
 ---
 
@@ -106,7 +113,7 @@ Você recebe um e-mail que aparenta ser do seu banco (ex: "Banco do Brasil"), di
 
 ---
 
-## ✅ Exercício 2: Utilizar gerenciador de senhas confiável
+## ✅ Exercício 3: Utilizar gerenciador de senhas confiável
 
 
 🔍 **Tarefa:**  Crie uma senha forte e utilize um gerenciador de senhas confiável para armazená-la
