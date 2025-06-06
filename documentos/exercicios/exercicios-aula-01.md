@@ -106,5 +106,25 @@ Você recebe um e-mail que aparenta ser do seu banco (ex: "Banco do Brasil"), di
 
 ---
 
+## ✅ Exercício 2: Utilizar gerenciador de senhas confiável
 
 
+🔍 **Tarefa:**  Crie uma senha forte e utilize um gerenciador de senhas confiável para armazená-la
+- *Nota: nunca use exemplos reais como senhas pessoais.*
+
+---
+
+### 🔐 Gerenciadores de Senhas Recomendados:
+
+| Nome             | Plataforma       | Recursos principais                       | Link                                 |
+|------------------|------------------|-------------------------------------------|--------------------------------------|
+| 1Password         | Windows, macOS, Mobile | Criptografia forte, cofres seguros        | [🔗 1password.com](https://1password.com) |
+| Bitwarden         | Open Source     | Gratuito, sincronização, extensões        | [🔗 bitwarden.com](https://bitwarden.com) |
+| KeePassXC         | Local/offline   | Código aberto, sem nuvem                  | [🔗 keepassxc.org](https://keepassxc.org) |
+
+---
+
+### 🛡️ Boa prática:
+Use um gerenciador de senhas para **armazenar** e **gerar** senhas fortes. Nunca anote em papel ou em arquivos de texto desprotegidos.
+
+---
