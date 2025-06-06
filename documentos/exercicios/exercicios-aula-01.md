@@ -2,10 +2,7 @@
 
 > Esta atividade complementa os estudos da Aula 01 do curso de Introdução à Cibersegurança. Os exercícios reforçam os conceitos abordados, promovem pesquisa e aplicação prática.
 
-
 ---
-
-## 📘 Aula 01 – Visão Geral da Cibersegurança
 
 ### 📝 Exercícios sugeridos
 
@@ -17,8 +14,7 @@
 
 ## ✅ Exercício 1: Notícias Recentes sobre Ciberataques
 
-🔍 **Tarefa:** 
-- 📰 **Pesquise e liste** 3 notícias recentes sobre ataques cibernéticos no Brasil ou no mundo 
+🔍 **Tarefa:** Pesquise e liste 3 notícias recentes sobre ataques cibernéticos no Brasil ou no mundo 
 
 ---
 
@@ -72,4 +68,43 @@ Um vazamento em banco de dados do iFood expôs dados pessoais de usuários, entr
 
 ---
 
+
+## ✅ Exercício 2: Ataque de phishing comum
+
+🔍 **Tarefa:** Identifique e explique um ataque de phishing comum que você já viu ou ouviu falar  
+
 ---
+
+## 🎣 Exemplo de Phishing Comum
+
+### 📌 Cenário:
+Você recebe um e-mail que aparenta ser do seu banco (ex: "Banco do Brasil"), dizendo que sua conta foi bloqueada por atividades suspeitas e que é necessário clicar em um link para "verificar sua identidade".
+
+---
+
+### 🔍 Características do ataque:
+
+- O **remetente é falso**, usando um domínio parecido (ex: `@bancodobrasil-suporte.com`)  
+- O e-mail contém **linguagem alarmante** para forçar ação rápida  
+- O link redireciona para um **site falso**, com aparência idêntica ao oficial  
+- O usuário é induzido a inserir **dados bancários, senha e token**
+
+---
+
+### ⚠️ Consequências:
+- Roubo de dados pessoais e bancários  
+- Acesso indevido à conta corrente  
+- Possível uso de engenharia social para fraudes futuras
+
+---
+
+### ✅ Como identificar:
+- Verifique o **domínio do e-mail** com atenção  
+- Nunca clique em links suspeitos ou forneça dados sem confirmar a fonte  
+- Bancos **nunca pedem senhas completas por e-mail**  
+- Use autenticação em dois fatores sempre que possível
+
+---
+
+
+
