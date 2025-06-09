@@ -15,22 +15,22 @@
 
 ## ✅ Progresso das Aulas
 
-| Aula | Tema                                          | Status       | Data de Conclusão |
-|------|-----------------------------------------------|--------------|--------------------|
-| 01   | Visão geral da cibersegurança                 | ⏳ Em andamento | - |
-| 02   | A importância da segurança da informação      | ⏳ Em andamento | - |
-| 03   | Ataques, ameaças e vulnerabilidades           | ⌛ Em breve   | - |
-| 04   | Red Team, Blue Team e tipos de defesa         | ⌛ Em breve   | - |
-| 05   | Carreiras e certificações em cibersegurança   | ⌛ Em breve   | - |
-| 06   | Revisão final + Quiz                          | ⌛ Em breve   | - |
+| Aula | Tema                                                | Status       | Data de Conclusão |
+|------|-----------------------------------------------------|--------------|--------------------|
+| 01   | [Introdução à LGPD](./notas/aula-01-visao-geral.md) |  ✅ **Concluída** | 🗓️ 09/06/2025 |
+| 02   | A importância da segurança da informação            | 🔄 Em andamento | - |
+| 03   | Ataques, ameaças e vulnerabilidades                 | ⌛ Em breve   | - |
+| 04   | Red Team, Blue Team e tipos de defesa               | ⌛ Em breve   | - |
+| 05   | Carreiras e certificações em cibersegurança         | ⌛ Em breve   | - |
+| 06   | Revisão final + Quiz                                | ⌛ Em breve   | - |
 
 ---
 
 ## 📈 Progresso Geral
 
-**0 de 0 aulas concluídas – 0% completo**
+**1 de 6 aulas concluídas – 16% completo**
 
-⬜⬜⬜⬜⬜⬜ 0%
+🟩⬜⬜⬜⬜⬜ 16%
 
 ---
 
