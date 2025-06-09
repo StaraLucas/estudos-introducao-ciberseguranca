@@ -97,3 +97,5 @@ Essas ameaças exploram vulnerabilidades técnicas e comportamentais. Mais detal
 - Crie uma senha forte e use um gerenciador de senhas para armazená-la  
 
 ---
+
+✅ *Aula concluída em 09/06/2025*
