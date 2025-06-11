@@ -15,22 +15,23 @@
 
 ## ✅ Progresso das Aulas
 
-| Aula | Tema                                                | Status       | Data de Conclusão |
-|------|-----------------------------------------------------|--------------|--------------------|
-| 01   | [Introdução à LGPD](./notas/aula-01-visao-geral.md) |  ✅ **Concluída** | 🗓️ 09/06/2025 |
-| 02   | A importância da segurança da informação            | 🔄 Em andamento | - |
-| 03   | Ataques, ameaças e vulnerabilidades                 | ⌛ Em breve   | - |
-| 04   | Red Team, Blue Team e tipos de defesa               | ⌛ Em breve   | - |
-| 05   | Carreiras e certificações em cibersegurança         | ⌛ Em breve   | - |
-| 06   | Revisão final + Quiz                                | ⌛ Em breve   | - |
+| Aula | Tema                                                                              | Status           | Data de Conclusão |
+|------|------------------------------------------------------------------------------------------------------|--------------------|
+| 01   | [Introdução à LGPD](./notas/aula01-visao-geral.md)                                | ✅ **Concluída** | 🗓️ 09/06/2025 |
+| 02   | [A importância da segurança da informação](./notas/aula02-importancia-seginfo.md) | ✅ **Concluída** | 🗓️ 10/06/2025 |
+| 03   | [Pilares da segrurança da informação](./notas/aula03-pilares-seginfo.md)          | 🔄 Em andamento | - |
+| 04   | [Ataques, ameaças e vulnerabilidades](./notas/aula04-vulnerabilidades.md)         | ⏹️ Não iniciado   | - |
+| 05   | [Red Team, Blue Team e tipos de defesa](./notas/aula05-tipos-defesa.md)           | ⏹️ Não iniciado   | - |
+| 06   | [Carreiras e certificações em cibersegurança](./notas/aula06-carreira.md)         | ⏹️ Não iniciado   | - |
+| 07   | [Revisão final + Quiz](./notas/aula07-revisao.md)                                 | ⏹️ Não iniciado   | - |
 
 ---
 
 ## 📈 Progresso Geral
 
-**1 de 6 aulas concluídas – 16% completo**
+**2 de 7 aulas concluídas – 28% completo**
 
-🟩⬜⬜⬜⬜⬜ 16%
+🟩🟩⬜⬜⬜⬜⬜ 28%
 
 ---
 
@@ -71,8 +72,9 @@ O conteúdo aqui organizado é destinado a fins educacionais, sem qualquer fim c
 ├── 📁 notas/                           → Anotações das aulas
 │   ├── aula01-visao-geral.md
 │   ├── aula02-importancia-seginfo.md
-│   ├── aula03-vulnerabilidades.md
-│   ├── aula04-tipos-defesa.md
-│   ├── aula05-carreira.md
-│   └──  aula06-revisao.md
+│   ├── aula03-pilares-seginfo.md
+│   ├── aula04-vulnerabilidades.md
+│   ├── aula05-tipos-defesa.md
+│   ├── aula06-carreira.md
+│   └── aula07-revisao.md
 
