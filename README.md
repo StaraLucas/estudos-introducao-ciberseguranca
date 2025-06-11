@@ -15,15 +15,16 @@
 
 ## ✅ Progresso das Aulas
 
-| Aula | Tema                                                                              | Status           | Data de Conclusão |
-|------|------------------------------------------------------------------------------------------------------|--------------------|
-| 01   | [Introdução à LGPD](./notas/aula01-visao-geral.md)                                | ✅ **Concluída** | 🗓️ 09/06/2025 |
-| 02   | [A importância da segurança da informação](./notas/aula02-importancia-seginfo.md) | ✅ **Concluída** | 🗓️ 10/06/2025 |
-| 03   | [Pilares da segrurança da informação](./notas/aula03-pilares-seginfo.md)          | 🔄 Em andamento | - |
-| 04   | [Ataques, ameaças e vulnerabilidades](./notas/aula04-vulnerabilidades.md)         | ⏹️ Não iniciado   | - |
-| 05   | [Red Team, Blue Team e tipos de defesa](./notas/aula05-tipos-defesa.md)           | ⏹️ Não iniciado   | - |
-| 06   | [Carreiras e certificações em cibersegurança](./notas/aula06-carreira.md)         | ⏹️ Não iniciado   | - |
-| 07   | [Revisão final + Quiz](./notas/aula07-revisao.md)                                 | ⏹️ Não iniciado   | - |
+| Aula | Tema                                                                                 | Status            | Data de Conclusão |
+|------|--------------------------------------------------------------------------------------|-------------------|-------------------|
+| 01   | [Visão Geral da Cibersegurança](./notas/aula01-visao-geral.md)                       | ✅ **Concluída**  | 🗓️ 09/06/2025     |
+| 02   | [A importância da segurança da informação](./notas/aula02-importancia-seginfo.md)    | ✅ **Concluída**  | 🗓️ 10/06/2025     |
+| 03   | [Pilares da segurança da informação](./notas/aula03-pilares-seginfo.md)              | 🔄 Em andamento   | -                 |
+| 04   | [Ataques, ameaças e vulnerabilidades](./notas/aula04-vulnerabilidades.md)            | ⏹️ Não iniciado  | -                 |
+| 05   | [Red Team, Blue Team e tipos de defesa](./notas/aula05-tipos-defesa.md)              | ⏹️ Não iniciado  | -                 |
+| 06   | [Carreiras e certificações em cibersegurança](./notas/aula06-carreira.md)            | ⏹️ Não iniciado  | -                 |
+| 07   | [Revisão final + Quiz](./notas/aula07-revisao.md)                                    | ⏹️ Não iniciado  | -                 |
+
 
 ---
 
