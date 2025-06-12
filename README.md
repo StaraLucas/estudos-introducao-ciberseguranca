@@ -5,10 +5,10 @@
 ---
 - [🎯 Objetivos](#-objetivos)
 - [✅ Progresso das Aulas](#-progresso-das-aulas)
-- [📂 Estrutura do Repositório](#-estrutura-do-repositorio)
+- [🔗 Outros Projetos Relacionados](#-outros-projetos-relacionados)
+- [📂 Estrutura do Repositório](estrutura-do-repositorio)
+- [📦 Referências e materiais de apoio](./REFERENCES.md)
 - [📌 Guia de Contribuição](./CONTRIBUTING.md)
-- [📄 Exercícios por Aula](#-exercícios-por-aula)
-
 
 
 ## 🎯 Objetivos
@@ -54,16 +54,17 @@
 
 ---
 
-## 📦 Recursos Complementares
-
-📚 Consulte o arquivo de [Referências e materiais de apoio](./referencias.md) para acessar:
-
----
 
 ## 🧠 Licença e uso
 
 Este repositório contém **anotações autorais** baseadas em material gratuito da Cisco.  
 O conteúdo aqui organizado é destinado a fins educacionais, sem qualquer fim comercial.
+
+---
+
+## 🔗 Outros Projetos Relacionados
+
+- [Estudos sobre a LGPD](https://github.com/LCardoso0079/estudos-lgpd)
 
 ---
 
