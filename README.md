@@ -3,6 +3,13 @@
 📚 Repositório de estudos com anotações, resumos e links úteis com base no curso gratuito da [Cisco Networking Academy](https://skillsforall.com/course/introduction-to-cybersecurity), com foco em segurança defensiva (Blue Team).
 
 ---
+- [🎯 Objetivos](#-objetivos)
+- [✅ Progresso das Aulas](#-progresso-das-aulas)
+- [📂 Estrutura do Repositório](#-estrutura-do-repositorio)
+- [📌 Guia de Contribuição](./CONTRIBUTING.md)
+- [📄 Exercícios por Aula](#-exercícios-por-aula)
+
+
 
 ## 🎯 Objetivos
 
@@ -15,15 +22,15 @@
 
 ## ✅ Progresso das Aulas
 
-| Aula | Tema                                                                                 | Status            | Data de Conclusão |
-|------|--------------------------------------------------------------------------------------|-------------------|-------------------|
-| 01   | [Introdução à Cibersegurança](./notas/aula01/visao-geral.md)                         | ✅ **Concluída** | 🗓️ 09/06/2025     |
-| 02   | [A importância da segurança da informação](./notas/aula02/importancia-seginfo.md)    | ✅ **Concluída** | 🗓️ 10/06/2025     |
-| 03   | [Pilares da segurança da informação](./notas/aula03/pilares-seginfo.md)              | ✅ **Concluída** | 🗓️ 12/06/2025     |
-| 04   | [Ataques, ameaças e vulnerabilidades](./notas/aula04/vulnerabilidades.md)            | 🔄 Em andamento  | -                 |
-| 05   | [Red Team, Blue Team e tipos de defesa](./notas/aula05/tipos-defesa.md)              | ⏹️ Não iniciado  | -                 |
-| 06   | [Carreiras e certificações em cibersegurança](./notas/aula06/carreira.md)            | ⏹️ Não iniciado  | -                 |
-| 07   | [Revisão final + Quiz](./notas/aula07/revisao.md)                                    | ⏹️ Não iniciado  | -                 |
+| Aula | Tema                                                                                 | Exercicios                                                  |  Status           | Data de Conclusão |
+|------|--------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------|-------------------|
+| 01   | [Introdução à Cibersegurança](./notas/aula01/visao-geral.md)                         | [Exercícios - Aula 01](./notas/aula01/aula01-exercicios.md) | ✅ **Concluída**  | 🗓️ 09/06/2025     |
+| 02   | [A importância da segurança da informação](./notas/aula02/importancia-seginfo.md)    | [Exercícios - Aula 02](./notas/aula02/aula02-exercicios.md) | ✅ **Concluída**  | 🗓️ 10/06/2025     | 
+| 03   | [Pilares da segurança da informação](./notas/aula03/pilares-seginfo.md)              | [Exercícios - Aula 03](./notas/aula03/aula03-exercicios.md) | ✅ **Concluída**  | 🗓️ 12/06/2025     | 
+| 04   | [Ataques, ameaças e vulnerabilidades](./notas/aula04/vulnerabilidades.md)            | [Exercícios - Aula 04](./notas/aula04/aula04-exercicios.md) | 🔄 Em andamento   | -                 | 
+| 05   | [Red Team, Blue Team e tipos de defesa](./notas/aula05/tipos-defesa.md)              | [Exercícios - Aula 05](./notas/aula05/aula05-exercicios.md) | ⏹️ Não iniciado   | -                 | 
+| 06   | [Carreiras e certificações em cibersegurança](./notas/aula06/carreira.md)            | [Exercícios - Aula 06](./notas/aula06/aula06-exercicios.md) | ⏹️ Não iniciado  | -                  |  
+| 07   | [Revisão final + Quiz](./notas/aula07/revisao.md)                                    | [Exercícios - Aula 07](./notas/aula07/aula07-exercicios.md) | ⏹️ Não iniciado  | -                   |
 
 
 ---
@@ -64,16 +71,6 @@ O conteúdo aqui organizado é destinado a fins educacionais, sem qualquer fim c
 
 ```bash
 .
-📁 introducao-ciberseguranca-cisco/
-├── 📁 notas/                           → Anotações das aulas
-│   ├── aula01-visao-geral.md
-│   ├── aula02-importancia-seginfo.md
-│   ├── aula03-pilares-seginfo.md
-│   ├── aula04-vulnerabilidades.md
-│   ├── aula05-tipos-defesa.md
-│   ├── aula06-carreira.md
-│   └── aula07-revisao.md
-
 📁 estudos-introducao-ciberseguranca/
 ├── 📁 notas/                           → Anotações e exercicios das aulas
 │   ├── 📁 aula01/ 
