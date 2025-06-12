@@ -17,10 +17,10 @@
 
 | Aula | Tema                                                                                 | Status            | Data de Conclusão |
 |------|--------------------------------------------------------------------------------------|-------------------|-------------------|
-| 01   | [Visão Geral da Cibersegurança](./notas/aula01-visao-geral.md)                       | ✅ **Concluída**  | 🗓️ 09/06/2025     |
-| 02   | [A importância da segurança da informação](./notas/aula02-importancia-seginfo.md)    | ✅ **Concluída**  | 🗓️ 10/06/2025     |
-| 03   | [Pilares da segurança da informação](./notas/aula03-pilares-seginfo.md)              | 🔄 Em andamento   | -                 |
-| 04   | [Ataques, ameaças e vulnerabilidades](./notas/aula04-vulnerabilidades.md)            | ⏹️ Não iniciado  | -                 |
+| 01   | [Visão Geral da Cibersegurança](./notas/aula01-visao-geral.md)                       | ✅ **Concluída**  | 🗓️ 09/06/2025    |
+| 02   | [A importância da segurança da informação](./notas/aula02-importancia-seginfo.md)    | ✅ **Concluída**  | 🗓️ 10/06/2025    |
+| 03   | [Pilares da segurança da informação](./notas/aula03-pilares-seginfo.md)              | ✅ **Concluída**  | 🗓️ 12/06/2025    |
+| 04   | [Ataques, ameaças e vulnerabilidades](./notas/aula04-vulnerabilidades.md)            | 🔄 Em andamento  | -                 |
 | 05   | [Red Team, Blue Team e tipos de defesa](./notas/aula05-tipos-defesa.md)              | ⏹️ Não iniciado  | -                 |
 | 06   | [Carreiras e certificações em cibersegurança](./notas/aula06-carreira.md)            | ⏹️ Não iniciado  | -                 |
 | 07   | [Revisão final + Quiz](./notas/aula07-revisao.md)                                    | ⏹️ Não iniciado  | -                 |
@@ -30,9 +30,9 @@
 
 ## 📈 Progresso Geral
 
-**2 de 7 aulas concluídas – 28% completo**
+**3 de 7 aulas concluídas – 42% completo**
 
-🟩🟩⬜⬜⬜⬜⬜ 28%
+🟩🟩🟩⬜⬜⬜⬜ 42%
 
 ---
 
@@ -69,7 +69,15 @@ O conteúdo aqui organizado é destinado a fins educacionais, sem qualquer fim c
 ├── referencias.md                     → Materiais complementares
 ├── 📁 documentos/                     → Guias e conteúdos extras
 │   ├── casos-praticos.md               → Casos reais aplicando a LGPD
-│   └── guia-contribuicao.md            → Como contribuir com o repositório
+│   ├── guia-contribuicao.md            → Como contribuir com o repositório
+│   └── 📁 exercicios/                  → exercícios resolvidos das aulas
+│       ├── aula01-exercicios.md
+│       ├── aula02-exercicios.md
+│       ├── aula03-exercicios.md
+│       ├── aula04-exercicios.md
+│       ├── aula05-exercicios.md
+│       ├── aula06-exercicios.md
+│       └── aula07-exercicios.md
 ├── 📁 notas/                           → Anotações das aulas
 │   ├── aula01-visao-geral.md
 │   ├── aula02-importancia-seginfo.md
